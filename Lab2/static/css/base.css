@@ -1,0 +1,23 @@
+.bookcover {
+    height: 500;
+    width: auto;
+
+}
+
+.welcome {
+    color: green;
+    text-align: center;
+}
+
+.post {
+    padding-top: 2%;
+}
+
+.post h2{
+    font-family: 'Roboto';
+}
+
+.post .date{
+    color: grey;
+    font-size: small;
+}
