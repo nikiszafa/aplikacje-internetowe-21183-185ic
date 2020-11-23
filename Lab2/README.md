@@ -8,7 +8,7 @@ https://nikodem-site.herokuapp.com/
 - Skorzystałem z crispy forms
 
 Moja strona
-  ![strona głóna](/scr/1.PNG)
+  ![strona głóna](scr/1.PNG)
 Panel Logowania
   ![strona głóna](/scr/2.PNG)
 Po zalogowaniu otrzymujemy maila powitalnego
