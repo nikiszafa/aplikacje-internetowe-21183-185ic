@@ -13,3 +13,5 @@ Dzięki tym zadaniom stworzyłem mój pierwszy blog w Django !!!
   - Nauczyłem się deployować własną aplikację na heroku.
 
   ![strona głóna](skr/skr1.PNG)
+  ![strona głóna](skr/skr2.PNG)
+  ![strona głóna](skr/skr3.PNG)
