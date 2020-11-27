@@ -1,2 +1,2 @@
 # aplikacje-internetowe-21183-185ic
-Tasks and exercises
+Repozytorium z zadaniami na Laboratoria
