@@ -1,0 +1,54 @@
+.bookcover {
+    height: 500;
+    width: auto;
+
+}
+
+.welcome {
+    color: green;
+    text-align: center;
+}
+
+.post {
+    padding-top: 2%;
+}
+
+.post h2 {
+    font-family: 'Roboto';
+}
+
+.post .date {
+    color: grey;
+    font-size: small;
+}
+
+
+.fa-github:hover {
+    opacity: 0.7;
+    background: #3B5998;
+}
+
+.fa-twitter:hover {
+    opacity: 0.7;
+    background: black;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-strava {
+    background: darkorange;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
