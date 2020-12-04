@@ -4,7 +4,7 @@
 
 - Stworzyłem Blog Api używając Django Res Framework
 - Stworzyłem dokumentacje APi za pomocą Swaggera i  OpenApi
-- Stworzyłem API v2 aplikacją RECIPES 
+- Stworzyłem API v2 z aplikacją RECIPES 
 
 Przemyślenia:
 - Swagger jest przestarzały należy używać drf-yasg
