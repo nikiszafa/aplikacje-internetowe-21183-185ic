@@ -11,6 +11,6 @@ Przemyślenia:
 - W django tworzenie Api jest zaskakująco szybkie i proste
 - Wersjonowanie API jest proste
 
-![strona głóna](Lab4/scr/1.PNG)
-![strona głóna](Lab4/scr/2.PNG)
-![strona głóna](Lab4/scr/3.PNG)
+![strona](scr/1.PNG)
+![efgw](scr/2.PNG)
+![dsf](scr/3.PNG)
