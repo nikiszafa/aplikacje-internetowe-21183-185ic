@@ -1,4 +1,6 @@
 ## LAB5 Web Scraping
+  ![strona głóna](https://www.edureka.co/blog/wp-content/uploads/2018/11/Untitled-1.jpg)
+
   - Wypróbowałem web scraping z użyciem:
      - metod String (example1.py)
      - regular expressions (example2.py)
