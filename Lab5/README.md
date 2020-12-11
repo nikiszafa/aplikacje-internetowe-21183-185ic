@@ -1,5 +1,5 @@
 ## LAB5 Web Scraping
-  - Wyprópowałem web scraping z użyciem:
+  - Wypróbowałem web scraping z użyciem:
      - metod String (example1.py)
      - regular expressions (example2.py)
      - beautifulSoup (example3.py)
