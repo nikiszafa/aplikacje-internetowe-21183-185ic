@@ -14,9 +14,9 @@
   W niektórych przypadkach i tak będziemy musieli skorzystać z pomocy
   .find() i regular expressions.
   To:
-  ![strona głóna](Lab5/skr/2.PNG)
+  ![strona głóna](/Lab5/skr/2.PNG)
   Zamiast tego: 
-  ![strona głóna](skr/lab5/1.PNG)
+  ![strona głóna](/Lab5/skr/1.PNG)
 
 - Wypełnianie formularza logowania na stronie
   za pomocą mechanical soup
@@ -24,5 +24,6 @@
       Przypisujemy zawartosc do login_html
     - login_html.select("form") zwraca listę wszystkich
       elementów <form>, następnie ustawiamy inputy 
-    - browser.submit() wysyła nasz formularz. 
-  ![strona głóna](skr/lab5/1.PNG)
+    - browser.submit() wysyła nasz formularz.
+  
+  ![strona głóna](/Lab5/skr/3.PNG)
