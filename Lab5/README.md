@@ -16,6 +16,7 @@
   
   To:
   ![strona głóna](/Lab5/skr/2.PNG)
+  
   Zamiast tego: 
   ![strona głóna](/Lab5/skr/1.PNG)
 
