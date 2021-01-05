@@ -17,7 +17,7 @@
     - urywki kodu są zawsze powiązane z twórcą
     - tylko uwierzytelnieni użytkownicy mogą tworzyć urywki kodu.
     - tylko twórca może aktualizować i usuwać urywki
-    - nie uwierzytelnione requesty mają pełny 
+    - nie uwierzytelnione requesty mają dostęp tylko do odczytu
  
  Posiłkowałem się tutorialem ze strony drf. 
   
