@@ -3,7 +3,7 @@
  ### - Możliwe dodawanie i usuwanie zadań do listy
  ### - Edycja zadań z listy
  ### - Usuwanie zadań z listy
-   ![strona głóna](/Lab9/skr/8.PNG)
+   ![strona głóna](/Lab10/skr/8.PNG)
  - Django REST Framework - elastyczny zestaw narzędzi służący do budowy Web APIs
  - Django-cors-headers - Aplikacja do obsługi server headers wymaganych dla Cross-Origin Resource Sharing (CORS).
  - Oba te narzędzia przydadzą nam się jeśli będziemy chcieli mieć dostep do API z różnych aplikacji (np. REACT)
