@@ -1,8 +1,10 @@
  ## LAB10 Django + React (aplikacja typu ToDo)
  ### Aplikacja do tworzenia Listy zadań
+ ### Bardzo podobna do poprzedniego zadania z LAB9 Django + React (aplikacja CRUD) 
  ### - Możliwe dodawanie i usuwanie zadań do listy
  ### - Edycja zadań z listy
  ### - Usuwanie zadań z listy
+ ### - Filtrowanie listy zadań na ukończone i nie ukończone
    ![strona głóna](/Lab10/skr/8.PNG)
  - Django REST Framework - elastyczny zestaw narzędzi służący do budowy Web APIs
  - Django-cors-headers - Aplikacja do obsługi server headers wymaganych dla Cross-Origin Resource Sharing (CORS).
