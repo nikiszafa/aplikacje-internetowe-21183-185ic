@@ -15,12 +15,12 @@
  
 
  #### Pierwsze połączenie z redis
-   ![strona głóna](/Lab11/skr/1.PNG)
+   ![strona głóna](/Lab7/skr/1.PNG)
  #### Redis cli
-   ![strona głóna](/Lab11/skr/2.PNG)
+   ![strona głóna](/Lab7/skr/2.PNG)
  #### Uruchomienie programu celery
-   ![strona głóna](/Lab11/skr/3.PNG) 
-   ![strona głóna](/Lab11/skr/4.PNG)
+   ![strona głóna](/Lab7/skr/3.PNG) 
+   ![strona głóna](/Lab7/skr/4.PNG)
  #### Efekt końcowy
-    ![strona głóna](/Lab11/skr/lab5.PNG)
+    ![strona głóna](/Lab7/skr/lab5.PNG)
 
