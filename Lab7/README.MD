@@ -22,5 +22,5 @@
    ![strona głóna](/Lab7/skr/3.JPG) 
    ![strona głóna](/Lab7/skr/4.JPG)
  #### Efekt końcowy
-    ![strona głóna](/Lab7/skr/lab5.JPG)
+   ![strona głóna](/Lab7/skr/lab5.JPG)
 
